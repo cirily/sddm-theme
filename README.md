@@ -1,4 +1,4 @@
-# SDDM Theme for Piscesy
+# SDDM Theme for Piscesys
 
 ![screenshot](screenshot.png)
 
