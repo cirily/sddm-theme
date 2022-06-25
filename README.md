@@ -1,4 +1,4 @@
-# SDDM Theme for Cirily
+# SDDM Theme for Piscesy
 
 ![screenshot](screenshot.png)
 
