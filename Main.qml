@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021 CutefishOS.
+ * Copyright (C) 2021 Piscesys.
  *
  * Author:     Reion Wong <reionwong@gmail.com>
  *
@@ -23,8 +23,8 @@ import QtQuick.Controls 2.12 as QQC2
 import QtQuick.Layouts 1.12
 import QtGraphicalEffects 1.0
 
-import Cutefish.Accounts 1.0 as Accounts
-import Cutefish.System 1.0 as System
+import Pisces.Accounts 1.0 as Accounts
+import Pisces.System 1.0 as System
 import FishUI 1.0 as FishUI
 
 import SddmComponents 2.0
@@ -43,7 +43,7 @@ Item {
     Image {
         id: wallpaperImage
         anchors.fill: parent
-        source: "file://" + "/usr/share/backgrounds/cutefishos/default.jpg"
+        source: "file://" + "/usr/share/backgrounds/piscesys/default.jpg"
         sourceSize: Qt.size(width * Screen.devicePixelRatio,
                             height * Screen.devicePixelRatio)
         fillMode: Image.PreserveAspectCrop
